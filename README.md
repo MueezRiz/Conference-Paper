@@ -95,7 +95,7 @@ pip install lightgbm catboost
 ```bash
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
 ```
-▶️ How to Run
+## ▶️ How to Run
 
 Open the notebook or Python script
 Run cells sequentially
@@ -108,7 +108,7 @@ Print evaluation metrics
 
 No manual dataset setup required.
 
-📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 
 Accuracy
 Precision
@@ -117,20 +117,20 @@ F1-score (primary metric)
 
 Evaluation is performed on the official UNSW-NB15 test split.
 
-🏆 Key Results Summary
+### 🏆 Key Results Summary
 Model,Labeled Data,F1-Score
 Paper Reproduction,10%,~0.978
 Attention Model (Ours),10%,~0.991
 Ensemble Model,10%,Highest
 
-🧪 Reproducibility
+### 🧪 Reproducibility
 
 Fixed random seeds
 Identical preprocessing pipeline
 Matches reported results before improvements
 
 
-📚 Research & Academic Use
+### 📚 Research & Academic Use
 This project is suitable for:
 
 Research paper reproduction
@@ -145,11 +145,11 @@ Add PCAP-based features
 Explore online/streaming IDS
 
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This code is intended for research and educational purposes only.
 It is not production-hardened for live network defense systems.
 
-👤 Authors
+## 👤 Authors
 Umaima Hashmi
 umaimahashmi65@gmail.com
 Mueez Rizwan (Corresponding Author)
