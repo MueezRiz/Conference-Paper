@@ -89,12 +89,12 @@ A powerful semi-supervised ensemble:
 ## ⚙️ Installation
 ```bash
 pip install torch torch-geometric scikit-learn pandas numpy tqdm
-pip install lightgbm catboost
-
+pip install lightgbm catboost 
+```
 ## (Optional GPU support)
 ```bash
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
-
+```
 ▶️ How to Run
 
 Open the notebook or Python script
@@ -159,13 +159,15 @@ nooranishtiaq@gmail.com
 
 📄 Citation
 If you use this work, please cite our paper:
-@article{hashmi2025semi,
+```@article{hashmi2025semi,
   title={Semi-Supervised Encrypted Malicious Traffic Detection: Reproduction and Enhancement on the UNSW-NB15 Dataset},
   author={Hashmi, Umaima and Rizwan, Mueez and Ishtiaq, Nooran},
   journal={Submitted to IEEE ICIT 2025},
   year={2025}
 }
-@article{liu2024semi,
+```
+Base paper:
+```@article{liu2024semi,
   title={Semi-Supervised Encrypted Malicious Traffic Detection Based on Multimodal Traffic Characteristics},
   author={Liu, Ming and Yang, Qichao and Wang, Wenqing and Liu, Shengli},
   journal={Sensors},
@@ -175,4 +177,4 @@ If you use this work, please cite our paper:
   year={2024},
   publisher={MDPI}
 }
-Base paper:
+```
