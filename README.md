@@ -150,12 +150,13 @@ This code is intended for research and educational purposes only.
 It is not production-hardened for live network defense systems.
 
 ## 👤 Authors
-Umaima Hashmi
-umaimahashmi65@gmail.com
-Mueez Rizwan (Corresponding Author)
-mueez7364@gmail.com
-Nooran Ishtiaq
-nooranishtiaq@gmail.com
+Umaima Hashmi  📧 umaimahashmi65@gmail.com
+
+Mueez Rizwan (Corresponding Author)  📧 mueez7364@gmail.com
+
+Nooran Ishtiaq  📧 nooranishtiaq@gmail.com
+
+
 
 📄 Citation
 If you use this work, please cite our paper:
