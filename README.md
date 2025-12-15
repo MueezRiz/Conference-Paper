@@ -187,10 +187,10 @@ It is **not production-hardened** for live network defense systems.
 
 ## 👤 Author
 
-**Umaima Hashmi    | ********[umaimahashmi65@gmail.com](mailto:umaimahashmi65@gmail.com) **
-**Mueez Rizwan     | ********[mueez7364@gmail.com](mailto:mueez7364@gmail.com)**
-**Nooran Ishtiaq   | ********[nooranishtiaq@gmail.com](mailto:nooranishtiaq@gmail.com)**
-Semi-Supervised Intrusion Detection Research Project
+**Umaima Hashmi**    | umaimahashmi65@gmail.com](mailto:umaimahashmi65@gmail.com) 
+**Mueez Rizwan**     | mueez7364@gmail.com](mailto:mueez7364@gmail.com)
+**Nooran Ishtiaq**   | [nooranishtiaq@gmail.com](mailto:nooranishtiaq@gmail.com)
+
 
 ---
 
